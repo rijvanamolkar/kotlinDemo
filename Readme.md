@@ -1,0 +1,1 @@
+Basic demo application to demonstrate CRUD operation.Used static customer list to store Customer data and performed all operations on it.
